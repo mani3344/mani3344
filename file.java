@@ -1,7 +1,8 @@
-import java.util.Scanner;  
-import java.lang.Math;  
-import java.io.printer; 
-import java.io.collection; 
+
+public static void main(String args[])
+ 
+
+ 
 import java.io.scanner;
 import java.io.outputprinter;
 import java.io.inputprinter;
